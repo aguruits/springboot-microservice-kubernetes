@@ -1,0 +1,4 @@
+com\ecomm\repository\OrderRepository.class
+com\ecomm\entity\Order.class
+com\ecomm\OrderServiceApplication.class
+com\ecomm\controller\OrderServiceController.class
